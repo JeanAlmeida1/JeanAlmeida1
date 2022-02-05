@@ -1,5 +1,5 @@
-- Meu nome é Jean, tenho 25 anos, sou mestrando em economia pela UFMG e atualmente buscando atuar como cientista de dados. 
-Também sou aluno da formação DataExpert, da Dnc Group.   
+-Jean, tenho 25 anos, mestrando em economia pela UFMG e atualmente buscando atuar como cientista de dados. 
+Aluno da formação DataExpert, da Dnc Group.   
 
 
 
