@@ -1,5 +1,5 @@
--Jean, 25 anos, mestrando em economia pela UFMG e entusiasta de ciência de dados e machine learning. 
-Aluno da formação DataExpert, da Dnc Group.   
+Entusiasta de ciência de dados e machine learning. 
+ 
 
 
 <!---
